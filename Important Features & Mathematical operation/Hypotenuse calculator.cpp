@@ -10,8 +10,11 @@ int main()
     cin>>b;
     c=sqrt(pow(a,2)+pow(b,2));
     cout<<"Therefore Side C By Using pythagorus theorem:"<<c;
+    
+    
     return 0;
     
+
 
 
 }
